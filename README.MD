@@ -1,4 +1,3 @@
-//EXPO KURULUMU VE UYGULAMA BAŞLATMA İÇİN README YAZ
  ## Başlangıç
 
 Bu adımları takip ederek projeyi yerel ortamınızda çalıştırabilirsiniz.
